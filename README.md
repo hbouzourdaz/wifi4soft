@@ -1,8 +1,4 @@
 
-Built by https://www.blackbox.ai
-
----
-
 # WIFI4Soft
 
 ## Project Overview
